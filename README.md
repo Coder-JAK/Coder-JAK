@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - :hand: How can I help You ? I can help you in all kinds of projects and also in management of the project with the high organisational skills which I have.
 
 ### Languages and Tools:
-<code><img height="40" src=""></code>
-<!--<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/salesforce/salesforce.png"></code>-->
+<!--<code><img height="40" src=""></code>-->
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/salesforce/salesforce.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
