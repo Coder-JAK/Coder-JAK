@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 [facebook]: https://www.facebook.com/jeet.kansagara.99
 
 <a href="https://github.com/Coder-JAK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-JAK&theme=tokyonight&layout=compact&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-JAK&theme=tokyonight&layout=compact" />
 </a>
